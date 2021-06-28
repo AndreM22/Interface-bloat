@@ -8,5 +8,11 @@ public class Panda implements IAnimal{
 		
 	}
 
+	@Override
+	public void volar() {
+		// TODO Auto-generated method stub
+		
+	}
+
 	
 }

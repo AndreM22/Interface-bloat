@@ -8,5 +8,11 @@ public class Tortuga implements IAnimal{
 		
 	}
 
+	@Override
+	public void volar() {
+		// TODO Auto-generated method stub
+		
+	}
+
 	
 }
